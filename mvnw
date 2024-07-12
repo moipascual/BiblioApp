@@ -14,7 +14,7 @@
 # software distributed under the License is distributed on an
 # "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
 # KIND, either express or implied.  See the License for the
-# specific language governing permissions and limitations
+# specific idiomas governing permissions and limitations
 # under the License.
 # ----------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@
 #
 # Optional ENV vars
 # -----------------
-#   JAVA_HOME - location of a JDK home dir, required when download maven via java source
+#   JAVA_HOME - location of a JDK home dir, required when descargas maven via java source
 #   MVNW_REPOURL - repo url base for downloading maven distribution
 #   MVNW_USERNAME/MVNW_PASSWORD - user and password for downloading maven
 #   MVNW_VERBOSE - true: enable verbose log; debug: trace the mvnw script; others: silence the output
